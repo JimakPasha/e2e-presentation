@@ -1,6 +1,6 @@
 ### Presentation development tools:
 
-- slides.com
+- <a href="https://slides.com">slides.com</a>
 
 ### Materials:
 
